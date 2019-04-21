@@ -1,5 +1,5 @@
-# DL-Gender-Age-Recognition
-A model to classify gender and age of a person
+# DL-Character-Description
+A model to classify some characteristics of a person
 
 
 ![32332](images/dataset.png)
