@@ -104,11 +104,8 @@ venv.bak/
 .mypy_cache/
 .DS_Store
 
-dataset/*
-!dataset/.gitkeep
+input/*
+!input/.gitkeep
 
 data/*
 !data/.gitkeep
-
-models/*
-!models/.gitkeep
